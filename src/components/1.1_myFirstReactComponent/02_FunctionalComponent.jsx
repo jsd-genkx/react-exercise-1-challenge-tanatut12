@@ -6,7 +6,7 @@
 const HelloJS = ({ mood }) => {
   return (
     <div className="w-full text-center">
-      <div className="p-2 bg-blue-300 rounded-lg mx-48">
+      <div className="p-2 bg-blue-300 rounded-lg mx-48 mt-4">
         <h1 className="text-[64px]">Hello Javascript😒</h1>
       </div>
       <p className="text-[48px]">Javascript was {mood}</p>

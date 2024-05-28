@@ -6,7 +6,7 @@
 function HelloReact({ mood }) {
   return (
     <div className="w-full text-center">
-      <div className="p-2 bg-blue-300 rounded-lg mx-64">
+      <div className="p-2 bg-blue-300 rounded-lg mx-64 mt-4">
         <h1 className="text-[64px]">Hello React🐱‍🐉</h1>
       </div>
       <p className="text-[48px]">react was {mood}</p>
